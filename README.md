@@ -6,7 +6,7 @@ This is a simple QR code generator website for links
 ![Web Image On Smart Phones Platforms](img/screen-shots/qr-code-generator-web-2.png)
 ![Web Image On Tablet Platforms](img/screen-shots/qr-code-generator-web-3.png)
 
-### MIT License
+<!-- ### MIT License
 
 Copyright &copy; 2022 Mohammed Najib
 
@@ -26,4 +26,4 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+SOFTWARE. -->
